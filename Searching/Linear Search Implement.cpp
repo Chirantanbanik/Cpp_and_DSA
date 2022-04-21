@@ -20,6 +20,6 @@ int linear_Search(int arr[], int n, int key){
         if(index != -1){
              cout<<key<<" is present at: "<<index<<endl;
          } else {
-             cout<<key<<" is nor present"<<endl;
+             cout<<key<<" is not present"<<endl;
          }
      }
