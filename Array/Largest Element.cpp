@@ -2,7 +2,7 @@
 
 // Algorithm:
 // 1. Create a varible max and initialize with 0.
-// 2. Then run a for loop starting with 1.
+// 2. Then run a for loop starting with 1 to n-1.
 // 3. if current element > max.
 // 4. store current element in max.
 // 5. then return the max.
