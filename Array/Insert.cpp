@@ -1,5 +1,12 @@
 //Insert a element in an Array, the Array can be sorted or unsorted.
 
+// Algorithm: 
+// 1. make an function insert and take arguments like arr[], n, x, cap and pos.
+// 2. if n==cap we return n, we can find index by pos - 1, and we will run a for loop from last element to the index and then assign value arr[i+1] = arr[i]
+// and similarly arr[idx] = x, and return(i+1).
+// 3. In the main function we will take before insertion wherein we will be providing the dynamic sized array's values, and a for loop from 0 to n and cout arr[i] 
+// and for After insertion we will be giving x and pos and put n = the function with it's arguments and run another for loop from 0 to n and cout arr[i].
+
 #include<iostream>
 using namespace std;
 
