@@ -1,3 +1,12 @@
+// Search in a unsorted Array.
+
+// Algorithm:
+// 1. Make a function linearSearch which has arr[], n and key.
+// 2. Run a for loop, if arr[i] = key then return i which is the index of the element 
+// otherwise return -1.
+// 3. In the main function we give the array, n and the key.
+// 4. now cout the linearSearch function.
+
 #include<iostream>
 using namespace std;
 
