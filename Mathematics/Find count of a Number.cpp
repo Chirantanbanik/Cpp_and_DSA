@@ -1,5 +1,9 @@
 // Find the count of a number
 
+// Logic: In this we will take count=0, then will use a while loop(n!=0) then find n=n%10 and will increment the count and at last return count. 
+// In the main function will provide the inputs.
+
+
 include<iostream>  
 using namespace std;
 
