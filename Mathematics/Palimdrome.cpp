@@ -18,3 +18,5 @@ int main(){
     int n = 1221;
     cout<<(bool)palimdromeCheck(n)<<endl;
 }
+
+// Time Complexity: Theta(d) where d = number of digits
