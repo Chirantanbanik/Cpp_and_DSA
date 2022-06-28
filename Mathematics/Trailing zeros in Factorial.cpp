@@ -19,3 +19,5 @@ int main(){
     int n = 7;
     cout<<trailingZeros(n)<<endl;
 }
+
+//Time Complexity: Theta(log n)
