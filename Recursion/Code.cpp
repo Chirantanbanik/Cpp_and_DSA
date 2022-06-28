@@ -12,6 +12,7 @@ void fun1(int n)
 
 	fun1(n - 1);
 }
+
 int main() {
 	
 	fun1(2);
