@@ -1,6 +1,6 @@
 //  Recursion - When a function calls itself directly or indirectly.
 
-// Direct Recursion
+## **Direct Recursion**
 
 void fun1(){
   
@@ -9,7 +9,9 @@ void fun1(){
     fun1();
 }
 
-// Indirect Recursion
+
+
+## **Indirect Recursion**
 
 void fun1(){
    
