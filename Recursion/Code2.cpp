@@ -27,3 +27,11 @@ int main() {
 
 	cout<<"After fun2"<<endl;
 }
+
+` Output:
+
+ Before fun2
+ Before fun1
+ fun1
+ After fun2
+ After fun1 `
