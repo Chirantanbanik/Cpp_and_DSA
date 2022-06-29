@@ -24,3 +24,5 @@ int main(){
 
 // fun(32)
 // Output -> 5
+
+// logN with base 2
