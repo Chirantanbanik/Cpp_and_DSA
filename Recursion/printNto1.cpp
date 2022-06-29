@@ -22,7 +22,8 @@ int main(){
 // 1
 
 // Logic:
-// printNto1(4) -> printNto1(3) -> printNto1(2) -> printNto1(1) -> printNto1(0)
-//      4               3               2               1 
+// printNto1(4) prints 4 -> printNto1(3) prints 3 -> printNto1(2) prints 2 -> printNto1(1)  prints 1 -> printNto1(0)
+
+// So, it is an Tail Recursive Function
 
 // Time Complexity: Theta(n) & Auxiliary Space: Theta(n)
