@@ -18,3 +18,9 @@ int main(){
 
 // fun(16) -> 1 + fun(8) -> 1 + fun(4) -> 1 + fun(2) -> 1 + fun(1)
 // Output -> 4
+
+// for fun(31) -> fun(31) -> 1 + fun(15) - > 1 + fun(7) -> 1 + fun(3) -> 1 + fun(1)
+// Output -> 4
+
+// fun(32)
+// Output -> 5
