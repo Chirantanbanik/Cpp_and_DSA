@@ -24,6 +24,6 @@ int main(){
 // Logic:
 // printNto1(4) prints 4 -> printNto1(3) prints 3 -> printNto1(2) prints 2 -> printNto1(1)  prints 1 -> printNto1(0)
 
-// So, it is an Tail Recursive Function
+// So, it is an Tail Recursive Function & it takes less time and less Auxiliary space than their Equivalent recursive function.
 
 // Time Complexity: Theta(n) & Auxiliary Space: Theta(n)
