@@ -21,3 +21,5 @@ int main(){
 
 // Time Complexity: Theta(d)
 // Auxiliary Space: Theta(d)
+
+// sumDigit(55) -> sumDigit(5) + 5 -> sumDigit(0) + 0
