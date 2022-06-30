@@ -18,3 +18,6 @@ int main(){
 // Logic: 
 // n%10 -> gives the last digit
 // n/10 -> removes the last digit
+
+// Time Complexity: Theta(d)
+// Auxiliary Space: Theta(d)
