@@ -31,5 +31,8 @@ int main(){
 // isPal("abba") -> isPal("bb") -> isPal(" ")
 // isPal("acbca") -> isPal("cbc") -> isPal("b") a single string is always palimdrome.
 
+// Time complexity: O(n)
+// Auxiliary space: O(n)
+
 
 
