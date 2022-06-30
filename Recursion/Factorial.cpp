@@ -1,5 +1,7 @@
 // Find factorial using Recursion
 
+// Remember about the base case
+
 #include<iostream>
 using namespace std;
 
@@ -16,3 +18,5 @@ int main(){
 }
 
 // Output: 6
+
+
