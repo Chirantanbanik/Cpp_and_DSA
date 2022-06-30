@@ -15,3 +15,5 @@ int main(){
     cout<<getSum(3);
 }
 
+// Time complexity: Theta(n) 
+// Auxiliary Space: Theta(n)
