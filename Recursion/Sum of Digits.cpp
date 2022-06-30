@@ -1,4 +1,4 @@
-// Find the sum of Digits by using Recursion
+// Find the sum of Digits by using Recursion                              
 
 #include<iostream>
 using namespace std;
@@ -23,3 +23,24 @@ int main(){
 // Auxiliary Space: Theta(d)
 
 // sumDigit(55) -> sumDigit(5) + 5 -> sumDigit(0) + 0
+
+
+// Iterative Solution
+
+#include<iostream>
+using namespace std;
+
+int getSum(int n){
+      int res = 0;
+      while(n<=0)
+      
+      res = res + n%10;
+      n = n/10;
+      return res;
+   }
+
+int main(){
+cout<<getSum(873);
+
+// Time complexity: Theta(n)
+// Auxiliary space: Theta(1)
