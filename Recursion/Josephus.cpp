@@ -16,3 +16,6 @@ int jos(int n, int k){
 int main(){
     cout<<"The remaining person is: "<<jos(2,3);
 }
+
+
+// Time Complexity: Theta(n)
