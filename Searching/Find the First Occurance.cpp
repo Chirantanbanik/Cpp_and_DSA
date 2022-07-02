@@ -13,3 +13,6 @@ int main(){
     int arr[] = {1,2,2,3,4,4,5,5}, n = 8, x = 5;
     cout<<firstOcc(arr, n, x);
 }
+
+// Time Complexity: O(n)
+// Auxiliary Space: O(1)
