@@ -1,6 +1,0 @@
-Types of Arrays in C++
-
-1. int arr[100]; -> Fixed sized arrays
-2. int arr[n]; -> when n is an integer
-3. int *arr = new int[n]; -> Dynamically allocated array on heap
-4. vector<int> v; -> Dynamically sized array, they grow as we add more and more elements to it.
