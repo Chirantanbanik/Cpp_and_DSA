@@ -23,4 +23,5 @@ int main(){
     cout<<maxDiff(arr, n);
 }
 
-
+// Time complexity: Theta(n)
+// Auxiliary Space: Theta(1)
