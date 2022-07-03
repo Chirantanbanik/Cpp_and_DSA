@@ -22,3 +22,7 @@ int main(){
     cout<<binarySearch(arr, n, key);
 }
 
+
+// Successful Search Time Complexity: O(log n)
+// Unsuccessful Search Time Complexity: Theta(log n)
+
