@@ -1,4 +1,6 @@
 // Time Complexity: O(1) in worst case.
+// Problem with DAT is cannot handel large values
+// cannot use floating point numbers, problems with strings.
 
 #include<iostream>
 using namespace std;
